@@ -1,12 +1,12 @@
 # APIServer
 
-APIServer是一款基于libevent的简易WebAPI服务，用于处理http的post与get信令，多平台支持。
+APIServer是一款基于mongoose的简易WebAPI服务，用于处理http的post与get信令，多平台支持。
 
 APIServer_mongoose 
 
 #### 1.How to build
 
-Windows ：直接运行build_win32目录下的sln文件，vc90 for vs2008, vc120 for vs2013.
+Windows ：直接运行build_win32目录下的sln
 
 linux : 运行make
 
